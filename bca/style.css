@@ -1,0 +1,30 @@
+div.contact_us{
+  position: fixed;
+  bottom: 0;
+  right: 0;
+}
+div.first{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0; 
+	background: #00fff763;
+	text-shadow: #808b96 -2px 2px;
+}
+a:link{
+	color: blue;
+}
+div.a_to_z{
+	background: #00fbff30;
+}
+div.profile{
+	font-size: 30px;
+	color: #f84444;
+	text-align: center;
+}
+div.download_program{
+	margin-right: 10px;
+}
+#tdd{
+	text-align: center;
+}
